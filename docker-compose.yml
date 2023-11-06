@@ -1,0 +1,17 @@
+version: "3.8"
+
+networks:
+  multiorb-core:
+    name: multiorb-core
+    driver: bridge
+    external: true
+
+services:
+  maddex-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: maddex-dev
+    restart: unless-stopped
+    networks:
+      - multiorb-core
