@@ -51,6 +51,7 @@
                 <strong>Projects I have worked on:</strong>
             </p>
             <ul>
+                <li><a href="https://github.com/name/autopilot" rel="noopener">Autopilot</a> - Optimize your Microsoft Azure environment for cost-efficiency.</li>
                 <li><a href="https://github.com/name/safe-transmission" rel="noopener">Safe Transmission</a> - Sending encrypted json data between client and server.</li>
             </ul>
         </section>
