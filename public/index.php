@@ -2,6 +2,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" 
+      type="image/png" 
+      href="https://maddex.dev/fav.jpg">
     <link rel="canonical" href="https://maddex.dev">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
@@ -18,7 +21,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="Charlie Maddex">
     <meta property="og:description" content="Charlie Maddex's Website">
-    <meta property="og:image" content="https://maddex.dev/favicon.jpg">
+    <meta property="og:image" content="https://maddex.dev/fav.jpg">
 
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
@@ -26,7 +29,7 @@
     <meta property="twitter:url" content="https://maddex.dev/">
     <meta name="twitter:title" content="Charlie Maddex">
     <meta name="twitter:description" content="Charlie Maddex's Website">
-    <meta name="twitter:image" content="https://maddex.dev/favicon.jpg">
+    <meta name="twitter:image" content="https://maddex.dev/fav.jpg">
 </head>
 
 <body class="animate__animated animate__fadeIn">
