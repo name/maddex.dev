@@ -38,12 +38,12 @@
     </header>
     <main id="maincontent">
         <section>
-            <h2>About Me</h2>
             <p>
-                <strong>Senior Technical Analyst at Method-IT. FinOps at Multiorb.</strong>
+                <strong>Senior Technical Analyst at Method-IT. Backend Engineer at Multiorb.</strong>
             </p>
             <p>
-                As a Senior Technical Analyst at Method-IT, my expertise lies in systems architecture and support, with a strong emphasis on fortifying security and ensuring platform resilience. My responsibilities encompass proactive monitoring, iterative development, systematic patching, and swift incident resolution. Parallel to this role, I contribute as a Backend Engineer at Multiorb, where I engineer solutions for automated cloud cost optimization across diverse cloud environments.
+                Senior Technical Analyst with a focus on systems integrity and innovation. I also contribute as a Backend Engineer at Multiorb, where I engineer solutions for automated cloud cost optimization across diverse cloud environments.
+                Currently on a side quest: building an ultra-compact home compute cluster.
             </p>
             <p>
                 Connect with me on: <a href="https://x.com/cunjur/" rel="noopener">Twitter</a>, <a href="https://github.com/name/" rel="noopener">GitHub</a>, <a href="https://www.linkedin.com/in/charliemaddex/" rel="noopener">LinkedIn</a>, or <a href="mailto:charlie@maddex.dev">Email</a>.
