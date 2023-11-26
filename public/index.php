@@ -42,7 +42,7 @@
                 <strong>Senior Technical Analyst at Method-IT. Backend Engineer at Multiorb.</strong>
             </p>
             <p>
-                Senior Technical Analyst with a focus on systems integrity and innovation. I also contribute as a Backend Engineer at Multiorb, where I engineer solutions for automated cloud cost optimization across diverse cloud environments.
+                Senior Technical Analyst with a focus on systems integrity and innovation. I also contribute as a Backend Engineer at <a href="https://multiorb.net" rel="noopener">Multiorb</a>, where I engineer software systems for clients.
                 Currently on a side quest: building an ultra-compact home compute cluster.
             </p>
             <p>
@@ -54,8 +54,8 @@
                 <strong>Projects I have worked on:</strong>
             </p>
             <ul>
-                <li><a href="https://github.com/name/autopilot" rel="noopener">Autopilot</a> - Optimize your Microsoft Azure environment for cost-efficiency.</li>
                 <li><a href="https://github.com/name/safe-transmission" rel="noopener">Safe Transmission</a> - Sending encrypted json data between client and server.</li>
+                <li><a href="https://github.com/name/autopilot" rel="noopener">Autopilot</a> - Optimize your Microsoft Azure environment for cost-efficiency.</li>
             </ul>
         </section>
     </main>
