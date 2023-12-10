@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" 
       type="image/png" 
-      href="https://maddex.dev/fav.jpg">
+      href="https://maddex.dev/favicon.jpg">
     <link rel="canonical" href="https://maddex.dev">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
@@ -65,11 +65,8 @@
         </p>
         <ul>
             <li><a href="https://github.com/name/safe-transmission" rel="noopener">Safe Transmission</a>: Sending encrypted json data between client and server.</li>
-            <li><a href="https://github.com/name/autopilot" rel="noopener">Autopilot</a>: Optimize your Microsoft Azure environment for cost-efficiency.</li>
-            <li><a href="https://github.com/name/invite" rel="noopener">Invite</a>: Self-hosted waitlist & invite platform.</li>
             <li><a href="https://github.com/name/install-handler" rel="noopener">Install Handler</a>: A simple install handler for Windows.</li>
-            <li><a href="https://github.com/sakuraji-labs/log4j-remediation" rel="noopener">Log4j</a>: Discover and remediate Log4Shell vulnerability [CVE-2021-45105].</li>
-            <li><a href="https://github.com/name/screenshot-verification" rel="noopener">Screenshot Verification</a>: Verify the absence of error messages after performing screenshot verification.</li>
+            <li><a href="https://github.com/sakuraji-labs/log4j-remediation" rel="noopener">Log4j</a>: Discover and remediate Log4Shell vulnerability.</li>
         </ul>
         <small><sup>*</sup> built with <a href="https://twitter.com/danielgross/status/1668655427243081735" rel="noopener">nat.css</a></small>
     </div>
